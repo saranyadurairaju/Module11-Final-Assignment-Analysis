@@ -64,7 +64,7 @@ When we give date as 1/12/2010 and shape as disk, we are getting single record w
 
 ### Empty table
 
-The table will show the empty values or we can show No values will be displayed when the criteria is not matching. For example in the above criteria we have only one record with has State as "wi". But if we try to filter with State "ca", we will get empty table as there is no record which match all three criterias (date:1/12/2010, Shape:disk, State:ca).
+The table will show the empty values or we can say "No values" will be displayed when the criteria is not matching. For example in the above criteria we have only one record with State as "wi". But if we try to filter with State "ca", we will get empty table as there is no record which match all three criterias (date:1/12/2010, Shape:disk, State:ca).
 
 ![image](https://user-images.githubusercontent.com/85472349/131207031-327bd2ec-db58-49f8-849b-9226cbca7b26.png)
 
@@ -72,7 +72,7 @@ Like the above filters, we can do many other combination of filters to find the 
 
 ## SUMMARY
 
-However the webpage looks nice with data and the filters are working perfectly, we can always do more things to make it better or work for all situations etc. Below are few drawback and recommendations.
+The webpage looks nice with data and the filters are working perfectly, still we can always come up with more things to make it better or work for all situations etc. Below are few drawback and recommendations.
 
 ### Drawback
 
